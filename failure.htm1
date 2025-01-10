@@ -1,0 +1,7 @@
+<html>
+<head><title>Pagamento Falhou</title></head>
+<body>
+    <h1>Pagamento Falhou</h1>
+    <p>Ocorreu um problema ao processar o pagamento. Por favor, tente novamente.</p>
+</body>
+</html>
